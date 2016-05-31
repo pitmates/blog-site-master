@@ -1,0 +1,46 @@
+# Header
+menu:
+  首页: /
+  文章: /archives
+  关于: /about
+rss: /atom.xml
+
+# Content
+excerpt_link: 阅读全文
+fancybox: true
+mathjax: true
+
+# Sidebar
+sidebar: left
+widgets:
+- recommend_posts
+- links
+- category
+- tagcloud
+- archive
+- recent_comments
+
+recommend_posts:
+  
+
+# Links
+links:
+  我的知乎: https://www.zhihu.com/people/mates-pit
+  我的微博: http://weibo.com/2497698800
+  Matrix67: http://www.matrix67.com/
+  岛娘: http://www.shuizilong.com/house/
+  
+  
+# Miscellaneous
+google_analytics:
+favicon: logo.ico
+twitter:
+google_plus:
+fb_admins: 
+fb_app_id:
+
+# Disqus
+disqus_shortname: pitm
+
+# Baidu share
+baidushare: true
