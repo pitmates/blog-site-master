@@ -41,6 +41,7 @@ render_drafts: false
 post_asset_folder: false
 relative_link: false
 future: true
+highlight_theme: normal
 highlight:
   enable: true
   line_number: true
@@ -104,3 +105,12 @@ deploy:
   branch: master
 
 mathjax: true
+
+markdown:
+  gfm: true
+  pedantic: false
+  sanitize: false
+  tables: true
+  breaks: true
+  smartLists: true
+  smartypants: true
